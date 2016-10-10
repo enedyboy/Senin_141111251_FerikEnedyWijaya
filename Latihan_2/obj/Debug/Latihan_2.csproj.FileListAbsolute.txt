@@ -1,0 +1,9 @@
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_2\bin\Debug\Latihan_2.exe.config
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_2\bin\Debug\Latihan_2.exe
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_2\bin\Debug\Latihan_2.pdb
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_2\obj\Debug\Latihan_2.Form1.resources
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_2\obj\Debug\Latihan_2.Properties.Resources.resources
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_2\obj\Debug\Latihan_2.csproj.GenerateResource.Cache
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_2\obj\Debug\Latihan_2.exe
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_2\obj\Debug\Latihan_2.pdb
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_2\obj\Debug\Latihan_2.csprojResolveAssemblyReference.cache
