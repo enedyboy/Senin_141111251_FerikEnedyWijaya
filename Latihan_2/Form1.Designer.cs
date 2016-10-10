@@ -40,6 +40,7 @@
             // monthCalendar1
             // 
             this.monthCalendar1.CalendarDimensions = new System.Drawing.Size(3, 3);
+            this.monthCalendar1.FirstDayOfWeek = System.Windows.Forms.Day.Monday;
             this.monthCalendar1.Location = new System.Drawing.Point(5, 116);
             this.monthCalendar1.Name = "monthCalendar1";
             this.monthCalendar1.TabIndex = 1;

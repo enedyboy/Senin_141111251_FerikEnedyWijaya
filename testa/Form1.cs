@@ -12,6 +12,7 @@ namespace testa
 {
     public partial class Form1 : Form
     {
+        DateTime a = new DateTime(2016, 1, 1);
         public Form1()
         {
             InitializeComponent();
@@ -23,6 +24,18 @@ namespace testa
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            for (int i = 1; i <= 7; i++)
+            {
+                a = a.AddDays(i);
+                if (a.DayOfWeek == DayOfWeek.Saturday || a.DayOfWeek == DayOfWeek.Sunday)
+                {
+                    monthCalendar1.AddBoldedDate(a);
+                }
+                else
+                {
+                    a.AddDays(7);
+                }
+            }
             comboBox2.Items.Add("Januari");
             comboBox2.Items.Add("Februari");
             comboBox2.Items.Add("Maret");

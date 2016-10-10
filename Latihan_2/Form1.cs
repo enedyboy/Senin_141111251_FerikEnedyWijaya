@@ -13,31 +13,26 @@ namespace Latihan_2
     public partial class Form1 : Form
     {
         int bln;
-        DateTime a = new DateTime(2016, 1, 1);
+        //DateTime a = new DateTime(2016, 1, 1);
         public Form1()
         {
             InitializeComponent();
         }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-            
-        }
+        
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            for(int i=1;i<=7;i++)
+//            monthCalendar1.FirstDayOfWeek Monday;
+            //DateTime a = new DateTime(2016, 1, 1);
+            for (DateTime a = new DateTime(2016,1,1); a.Year < 2017; a = a.AddDays(1))
             {
-                a = a.AddDays(i);
-                if(a.DayOfWeek == DayOfWeek.Saturday || a.DayOfWeek == DayOfWeek.Sunday)
+
+                if (a.DayOfWeek == DayOfWeek.Saturday || a.DayOfWeek == DayOfWeek.Sunday)
                 {
                     monthCalendar1.AddBoldedDate(a);
                 }
-                else
-                {
-                    a.AddDays(7);
-                }
             }
+            monthCalendar1.UpdateBoldedDates();
             monthCalendar1.AddAnnuallyBoldedDate(new DateTime(2016, 03, 11));
 
             domainUpDown1.Items.Add("Januari");
@@ -119,6 +114,8 @@ namespace Latihan_2
             }
 
 
+            button1.Text = "Tambah";
+            button2.Text = "Buang";
         }
 
         private void button1_Click(object sender, EventArgs e)
