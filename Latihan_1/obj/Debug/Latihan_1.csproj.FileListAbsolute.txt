@@ -7,3 +7,6 @@ C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWija
 C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_1\obj\Debug\Latihan_1.csproj.GenerateResource.Cache
 C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_1\obj\Debug\Latihan_1.exe
 C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_1\obj\Debug\Latihan_1.pdb
+D:\Mikroskil\Semester 5\New folder\Senin_141111251_FerikEnedyWijaya\Latihan_1\bin\Debug\Latihan_1.exe.config
+D:\Mikroskil\Semester 5\New folder\Senin_141111251_FerikEnedyWijaya\Latihan_1\obj\Debug\Latihan_1.exe
+D:\Mikroskil\Semester 5\New folder\Senin_141111251_FerikEnedyWijaya\Latihan_1\obj\Debug\Latihan_1.pdb
