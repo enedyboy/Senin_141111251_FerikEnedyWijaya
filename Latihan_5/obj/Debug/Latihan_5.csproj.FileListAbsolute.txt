@@ -7,3 +7,13 @@ D:\Mikroskil\Semester 5\New folder\Senin_141111251_FerikEnedyWijaya\Latihan_5\ob
 D:\Mikroskil\Semester 5\New folder\Senin_141111251_FerikEnedyWijaya\Latihan_5\obj\Debug\Latihan_5.csproj.GenerateResource.Cache
 D:\Mikroskil\Semester 5\New folder\Senin_141111251_FerikEnedyWijaya\Latihan_5\obj\Debug\Latihan_5.exe
 D:\Mikroskil\Semester 5\New folder\Senin_141111251_FerikEnedyWijaya\Latihan_5\obj\Debug\Latihan_5.pdb
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_5\bin\Debug\Latihan_5.exe.config
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_5\obj\Debug\Latihan_5.exe
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_5\obj\Debug\Latihan_5.pdb
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_5\bin\Debug\Latihan_5.exe
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_5\bin\Debug\Latihan_5.pdb
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_5\obj\Debug\Latihan_5.csprojResolveAssemblyReference.cache
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_5\obj\Debug\Latihan_5.Form1.resources
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_5\obj\Debug\Latihan_5.Form2.resources
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_5\obj\Debug\Latihan_5.Properties.Resources.resources
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_5\obj\Debug\Latihan_5.csproj.GenerateResource.Cache
