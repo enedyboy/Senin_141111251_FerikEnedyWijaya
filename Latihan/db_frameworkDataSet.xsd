@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="db_frameworkDataSet" targetNamespace="http://tempuri.org/db_frameworkDataSet.xsd" xmlns:mstns="http://tempuri.org/db_frameworkDataSet.xsd" xmlns="http://tempuri.org/db_frameworkDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="db_frameworkConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="db_frameworkConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Latihan_POS.Properties.Settings.GlobalReference.Default.db_frameworkConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="barangTableAdapter" GeneratorDataComponentClassName="barangTableAdapter" Name="barang" UserDataComponentName="barangTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="db_frameworkConnectionString (Settings)" DbObjectName="db_framework.barang" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `id`, `kode`, `nama`, `stock`, `harga_beli`, `harga_jual`, `dibuat`, `diedit` FROM `barang`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="beliTableAdapter" GeneratorDataComponentClassName="beliTableAdapter" Name="beli" UserDataComponentName="beliTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="db_frameworkConnectionString (Settings)" DbObjectName="db_framework.beli" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `id`, `kode`, `id_supplier`, `dibuat`, `diedit` FROM `beli`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="beli_detailTableAdapter" GeneratorDataComponentClassName="beli_detailTableAdapter" Name="beli_detail" UserDataComponentName="beli_detailTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="db_frameworkConnectionString (Settings)" DbObjectName="db_framework.beli_detail" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `id`, `kode_beli`, `id_barang`, `harga_barang`, `kuantitas`, `dibuat`, `diedit` FROM `beli_detail`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="customerTableAdapter" GeneratorDataComponentClassName="customerTableAdapter" Name="customer" UserDataComponentName="customerTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="db_frameworkConnectionString (Settings)" DbObjectName="db_framework.customer" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `id`, `nama`, `alamat`, `no_hp`, `diedit`, `dibuat`, `gender` FROM `customer`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="jualTableAdapter" GeneratorDataComponentClassName="jualTableAdapter" Name="jual" UserDataComponentName="jualTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="db_frameworkConnectionString (Settings)" DbObjectName="db_framework.jual" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `id`, `kode`, `id_cust`, `dibuat`, `diedit` FROM `jual`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="jual_detailTableAdapter" GeneratorDataComponentClassName="jual_detailTableAdapter" Name="jual_detail" UserDataComponentName="jual_detailTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="db_frameworkConnectionString (Settings)" DbObjectName="db_framework.jual_detail" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `id`, `kode_jual`, `id_barang`, `harga_barang`, `kuantitas`, `dibuat`, `diedit` FROM `jual_detail`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="supplierTableAdapter" GeneratorDataComponentClassName="supplierTableAdapter" Name="supplier" UserDataComponentName="supplierTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="db_frameworkConnectionString (Settings)" DbObjectName="db_framework.supplier" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `id`, `kode`, `nama`, `alamat`, `no_hp`, `dibuat`, `join`, `diedit` FROM `supplier`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="db_frameworkDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="db_frameworkDataSet" msprop:Generator_UserDSName="db_frameworkDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="barang" msprop:Generator_TableClassName="barangDataTable" msprop:Generator_TableVarName="tablebarang" msprop:Generator_TablePropName="barang" msprop:Generator_RowDeletingName="barangRowDeleting" msprop:Generator_RowChangingName="barangRowChanging" msprop:Generator_RowEvHandlerName="barangRowChangeEventHandler" msprop:Generator_RowDeletedName="barangRowDeleted" msprop:Generator_UserTableName="barang" msprop:Generator_RowChangedName="barangRowChanged" msprop:Generator_RowEvArgName="barangRowChangeEvent" msprop:Generator_RowClassName="barangRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="beli" msprop:Generator_TableClassName="beliDataTable" msprop:Generator_TableVarName="tablebeli" msprop:Generator_TablePropName="beli" msprop:Generator_RowDeletingName="beliRowDeleting" msprop:Generator_RowChangingName="beliRowChanging" msprop:Generator_RowEvHandlerName="beliRowChangeEventHandler" msprop:Generator_RowDeletedName="beliRowDeleted" msprop:Generator_UserTableName="beli" msprop:Generator_RowChangedName="beliRowChanged" msprop:Generator_RowEvArgName="beliRowChangeEvent" msprop:Generator_RowClassName="beliRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="beli_detail" msprop:Generator_TableClassName="beli_detailDataTable" msprop:Generator_TableVarName="tablebeli_detail" msprop:Generator_TablePropName="beli_detail" msprop:Generator_RowDeletingName="beli_detailRowDeleting" msprop:Generator_RowChangingName="beli_detailRowChanging" msprop:Generator_RowEvHandlerName="beli_detailRowChangeEventHandler" msprop:Generator_RowDeletedName="beli_detailRowDeleted" msprop:Generator_UserTableName="beli_detail" msprop:Generator_RowChangedName="beli_detailRowChanged" msprop:Generator_RowEvArgName="beli_detailRowChangeEvent" msprop:Generator_RowClassName="beli_detailRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="customer" msprop:Generator_TableClassName="customerDataTable" msprop:Generator_TableVarName="tablecustomer" msprop:Generator_TablePropName="customer" msprop:Generator_RowDeletingName="customerRowDeleting" msprop:Generator_RowChangingName="customerRowChanging" msprop:Generator_RowEvHandlerName="customerRowChangeEventHandler" msprop:Generator_RowDeletedName="customerRowDeleted" msprop:Generator_UserTableName="customer" msprop:Generator_RowChangedName="customerRowChanged" msprop:Generator_RowEvArgName="customerRowChangeEvent" msprop:Generator_RowClassName="customerRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="jual" msprop:Generator_TableClassName="jualDataTable" msprop:Generator_TableVarName="tablejual" msprop:Generator_TablePropName="jual" msprop:Generator_RowDeletingName="jualRowDeleting" msprop:Generator_RowChangingName="jualRowChanging" msprop:Generator_RowEvHandlerName="jualRowChangeEventHandler" msprop:Generator_RowDeletedName="jualRowDeleted" msprop:Generator_UserTableName="jual" msprop:Generator_RowChangedName="jualRowChanged" msprop:Generator_RowEvArgName="jualRowChangeEvent" msprop:Generator_RowClassName="jualRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="jual_detail" msprop:Generator_TableClassName="jual_detailDataTable" msprop:Generator_TableVarName="tablejual_detail" msprop:Generator_TablePropName="jual_detail" msprop:Generator_RowDeletingName="jual_detailRowDeleting" msprop:Generator_RowChangingName="jual_detailRowChanging" msprop:Generator_RowEvHandlerName="jual_detailRowChangeEventHandler" msprop:Generator_RowDeletedName="jual_detailRowDeleted" msprop:Generator_UserTableName="jual_detail" msprop:Generator_RowChangedName="jual_detailRowChanged" msprop:Generator_RowEvArgName="jual_detailRowChangeEvent" msprop:Generator_RowClassName="jual_detailRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="supplier" msprop:Generator_TableClassName="supplierDataTable" msprop:Generator_TableVarName="tablesupplier" msprop:Generator_TablePropName="supplier" msprop:Generator_RowDeletingName="supplierRowDeleting" msprop:Generator_RowChangingName="supplierRowChanging" msprop:Generator_RowEvHandlerName="supplierRowChangeEventHandler" msprop:Generator_RowDeletedName="supplierRowDeleted" msprop:Generator_UserTableName="supplier" msprop:Generator_RowChangedName="supplierRowChanged" msprop:Generator_RowEvArgName="supplierRowChangeEvent" msprop:Generator_RowClassName="supplierRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

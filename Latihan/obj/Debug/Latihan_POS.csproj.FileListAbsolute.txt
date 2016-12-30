@@ -1,0 +1,13 @@
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_POS\bin\Debug\Latihan_POS.exe.config
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_POS\obj\Debug\Latihan_POS.csprojResolveAssemblyReference.cache
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_POS\obj\Debug\Latihan_POS.Barang.resources
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_POS\obj\Debug\Latihan_POS.Customer.resources
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_POS\obj\Debug\Latihan_POS.Properties.Resources.resources
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_POS\obj\Debug\Latihan_POS.Supplier.resources
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_POS\obj\Debug\Latihan_POS.Transaksi.resources
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_POS\obj\Debug\Latihan_POS.csproj.GenerateResource.Cache
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_POS\bin\Debug\Latihan_POS.exe
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_POS\bin\Debug\Latihan_POS.pdb
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_POS\obj\Debug\Latihan_POS.exe
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_POS\obj\Debug\Latihan_POS.pdb
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedyWijaya\Latihan_POS\obj\Debug\Latihan_POS.Form1.resources

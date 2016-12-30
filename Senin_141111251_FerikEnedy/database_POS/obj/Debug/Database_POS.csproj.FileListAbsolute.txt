@@ -1,0 +1,40 @@
+D:\rinaldi\kuliah\Pemrogramn Framework Lanjutan\tugas\Pemgrograman .Net Lanjutan\Latihan\Senin_141110451_MuhammadRinaldiHutabarat\Database_POS\bin\Debug\Database_POS.exe.config
+D:\rinaldi\kuliah\Pemrogramn Framework Lanjutan\tugas\Pemgrograman .Net Lanjutan\Latihan\Senin_141110451_MuhammadRinaldiHutabarat\Database_POS\bin\Debug\Database_POS.exe
+D:\rinaldi\kuliah\Pemrogramn Framework Lanjutan\tugas\Pemgrograman .Net Lanjutan\Latihan\Senin_141110451_MuhammadRinaldiHutabarat\Database_POS\bin\Debug\Database_POS.pdb
+D:\rinaldi\kuliah\Pemrogramn Framework Lanjutan\tugas\Pemgrograman .Net Lanjutan\Latihan\Senin_141110451_MuhammadRinaldiHutabarat\Database_POS\obj\Debug\Database_POS.Barang.resources
+D:\rinaldi\kuliah\Pemrogramn Framework Lanjutan\tugas\Pemgrograman .Net Lanjutan\Latihan\Senin_141110451_MuhammadRinaldiHutabarat\Database_POS\obj\Debug\Database_POS.Form1.resources
+D:\rinaldi\kuliah\Pemrogramn Framework Lanjutan\tugas\Pemgrograman .Net Lanjutan\Latihan\Senin_141110451_MuhammadRinaldiHutabarat\Database_POS\obj\Debug\Database_POS.Properties.Resources.resources
+D:\rinaldi\kuliah\Pemrogramn Framework Lanjutan\tugas\Pemgrograman .Net Lanjutan\Latihan\Senin_141110451_MuhammadRinaldiHutabarat\Database_POS\obj\Debug\Database_POS.csproj.GenerateResource.Cache
+D:\rinaldi\kuliah\Pemrogramn Framework Lanjutan\tugas\Pemgrograman .Net Lanjutan\Latihan\Senin_141110451_MuhammadRinaldiHutabarat\Database_POS\obj\Debug\Database_POS.exe
+D:\rinaldi\kuliah\Pemrogramn Framework Lanjutan\tugas\Pemgrograman .Net Lanjutan\Latihan\Senin_141110451_MuhammadRinaldiHutabarat\Database_POS\obj\Debug\Database_POS.pdb
+D:\rinaldi\kuliah\Pemrogramn Framework Lanjutan\tugas\Pemgrograman .Net Lanjutan\Latihan\Senin_141110451_MuhammadRinaldiHutabarat\Database_POS\obj\Debug\Database_POS.csprojResolveAssemblyReference.cache
+D:\rinaldi\kuliah\Pemrogramn Framework Lanjutan\tugas\Pemgrograman .Net Lanjutan\Latihan\Senin_141110451_MuhammadRinaldiHutabarat\Database_POS\obj\Debug\Database_POS.Costumer.resources
+D:\rinaldi\kuliah\Pemrogramn Framework Lanjutan\tugas\Pemgrograman .Net Lanjutan\Latihan\Senin_141110451_MuhammadRinaldiHutabarat\Database_POS\bin\Debug\MySql.Data.dll
+D:\rinaldi\kuliah\Pemrogramn Framework Lanjutan\tugas\Pemgrograman .Net Lanjutan\Latihan\Senin_141110451_MuhammadRinaldiHutabarat\Database_POS\obj\Debug\Database_POS.Supplier.resources
+D:\rinaldi\kuliah\Pemrogramn Framework Lanjutan\tugas\Pemgrograman .Net Lanjutan\Latihan\Senin_141110451_MuhammadRinaldiHutabarat\Database_POS\obj\Debug\Database_POS.Transaksi.resources
+D:\OOP\Senin_141110451_MuhammadRinaldiHutabarat-master\Database_POS\bin\Debug\Database_POS.exe.config
+D:\OOP\Senin_141110451_MuhammadRinaldiHutabarat-master\Database_POS\obj\Debug\Database_POS.exe
+D:\OOP\Senin_141110451_MuhammadRinaldiHutabarat-master\Database_POS\obj\Debug\Database_POS.pdb
+D:\OOP\Senin_141110451_MuhammadRinaldiHutabarat-master\Database_POS\bin\Debug\Database_POS.exe
+D:\OOP\Senin_141110451_MuhammadRinaldiHutabarat-master\Database_POS\bin\Debug\Database_POS.pdb
+D:\OOP\Senin_141110451_MuhammadRinaldiHutabarat-master\Database_POS\obj\Debug\Database_POS.csprojResolveAssemblyReference.cache
+D:\OOP\Senin_141110451_MuhammadRinaldiHutabarat-master\Database_POS\obj\Debug\Database_POS.Barang.resources
+D:\OOP\Senin_141110451_MuhammadRinaldiHutabarat-master\Database_POS\obj\Debug\Database_POS.Costumer.resources
+D:\OOP\Senin_141110451_MuhammadRinaldiHutabarat-master\Database_POS\obj\Debug\Database_POS.Form1.resources
+D:\OOP\Senin_141110451_MuhammadRinaldiHutabarat-master\Database_POS\obj\Debug\Database_POS.Properties.Resources.resources
+D:\OOP\Senin_141110451_MuhammadRinaldiHutabarat-master\Database_POS\obj\Debug\Database_POS.Supplier.resources
+D:\OOP\Senin_141110451_MuhammadRinaldiHutabarat-master\Database_POS\obj\Debug\Database_POS.Transaksi.resources
+D:\OOP\Senin_141110451_MuhammadRinaldiHutabarat-master\Database_POS\obj\Debug\Database_POS.csproj.GenerateResource.Cache
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedy\Database_POS\bin\Debug\Database_POS.exe.config
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedy\Database_POS\obj\Debug\Database_POS.exe
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedy\Database_POS\obj\Debug\Database_POS.pdb
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedy\Database_POS\bin\Debug\Database_POS.exe
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedy\Database_POS\bin\Debug\Database_POS.pdb
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedy\Database_POS\obj\Debug\Database_POS.csprojResolveAssemblyReference.cache
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedy\Database_POS\obj\Debug\Database_POS.Barang.resources
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedy\Database_POS\obj\Debug\Database_POS.Costumer.resources
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedy\Database_POS\obj\Debug\Database_POS.Form1.resources
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedy\Database_POS\obj\Debug\Database_POS.Properties.Resources.resources
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedy\Database_POS\obj\Debug\Database_POS.Supplier.resources
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedy\Database_POS\obj\Debug\Database_POS.Transaksi.resources
+C:\Users\Ferik Enedy\Documents\Framework Lanjutan\Senin_141111251_FerikEnedy\Database_POS\obj\Debug\Database_POS.csproj.GenerateResource.Cache
